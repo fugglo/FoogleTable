@@ -1,0 +1,17 @@
+{
+  "name": "flable",
+  "version": "0.0.1",
+  "description": "Tabela dinamica para facilitar processos interno.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Table"
+  ],
+  "author": "Matheus Rufino Cruz and Luis Felipe Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "mdbootstrap": "^4.8.2"
+  }
+}
